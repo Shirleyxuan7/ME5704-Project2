@@ -1,0 +1,15 @@
+method,h,iterations
+Jacobi,1/2,117
+Jacobi,1/4,443
+Jacobi,1/8,1603
+Jacobi,1/16,5655
+Gauss-Seidel,1/2,60
+Gauss-Seidel,1/4,227
+Gauss-Seidel,1/8,828
+Gauss-Seidel,1/16,2952
+SOR (λ_opt),1/2,23
+SOR (λ_opt),1/4,45
+SOR (λ_opt),1/8,86
+SOR (λ_opt),1/16,169
+SOR (λ_opt),1/32,331
+SOR (λ_opt),1/64,659
